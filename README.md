@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @graceisflowers
+- 👀 I’m interested in making a website to inspire people
+- 🌱 I’m currently learning coding
